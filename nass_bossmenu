@@ -1,0 +1,1 @@
+{"version":"2.2.1","changelog":"\nAdded discord logs\nFix for database errors with transaction in cases where names are too long\nUnlocked permissions checks function\nFix for Qbox/QBCore salaries and grade names not updating correctly\nAdded support for tgg-banking\nAdded support for fd_banking"}
