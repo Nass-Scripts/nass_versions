@@ -1,1 +1,1 @@
-{"version":"2.0.7","changelog":"\nBug fixes\nCode cleanup\n"}
+{"version":"2.0.8","changelog":"\nBug fixes\nCode cleanup\nAdded fix for planeyard map\nAdded load model variable for custom weapons that need it\nAdded teleport back to initial area if you leave mid game"}
