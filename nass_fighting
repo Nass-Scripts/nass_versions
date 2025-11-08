@@ -1,1 +1,1 @@
-{"version":"1.0.4", "changelog":"\nGetting ready for new animations\nAdded job locking system for specific move sets\nAdded unfreeze for some having issues with NPC fights\nAdded support for Wasabi's new knockout exports so you can use his system for knocking players out"}
+{"version":"1.0.5", "changelog":"\Added new animations\nAdded custom animations section to the config\nAdded new export for those who want to increase player stamina\nEdited debugging functions for easier use\nAdded support for p_ambulancejob"}
